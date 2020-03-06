@@ -14,6 +14,7 @@ Create a Conda environment with the following command
 
 ```bash
 conda create -n jupyterlab-ext --override-channels --strict-channel-priority -c conda-forge -c jupyterlab cookiecutter nodejs
+conda activate jupyterlab-ext
 ```
 
 ```bash
