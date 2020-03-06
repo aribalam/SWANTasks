@@ -22,3 +22,7 @@ cd WeatherJupyterLab
 ./install.sh
 jupyter labextension install .
 ```
+
+## Example
+
+![](https://github.com/aribalam/SWANTasks/blob/assets/ext2_high2.gif)
