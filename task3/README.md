@@ -20,5 +20,5 @@ conda activate jupyterlab-ext
 ```bash
 cd WeatherJupyterLab
 ./install.sh
-jupyter labextension install weather_ext2
+jupyter labextension install .
 ```
