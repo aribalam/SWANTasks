@@ -21,3 +21,6 @@ conda activate jupyterlab-ext
 cd weather_extension
 jupyter labextension install .
 ```
+
+## Example
+![](https://github.com/aribalam/SWANTasks/blob/assets/ext1_high.gif)
