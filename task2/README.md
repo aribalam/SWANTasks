@@ -1,6 +1,6 @@
 # Weather Extension for Jupyter Lab
 
-A JupyterLab extension to get weather data for cities. The data is imported into the kernel as variables in the user's namespace.
+A JupyterLab extension to get weather data for cities.
 
 ## Requirements
 
@@ -19,6 +19,5 @@ conda activate jupyterlab-ext
 
 ```bash
 cd WeatherJupyterLab
-./install.sh
 jupyter labextension install .
 ```
