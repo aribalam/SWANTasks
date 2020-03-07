@@ -1,6 +1,7 @@
 # Weather Extension for Jupyter Lab
 
 A JupyterLab extension to get weather data for cities. The data is imported into the kernel as variables in the user's namespace.
+Search for a city to get weather data. The data can then be accessed as a variable `weather_data` in the notebook.
 
 ## Requirements
 
